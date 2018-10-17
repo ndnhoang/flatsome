@@ -20,13 +20,17 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
+<<<<<<< HEAD
 define('DB_NAME', 'flatsome11');
+=======
+define('DB_NAME', 'flatsome1');
+>>>>>>> ea1909897fa6cd3a467f6ac9fb90bbdc9a1e68b9
 
 /** Username của database */
 define('DB_USER', 'root');
 
 /** Mật khẩu của database */
-define('DB_PASSWORD', 'nlstech888');
+define('DB_PASSWORD', 'nlstech88');
 
 /** Hostname của database */
 define('DB_HOST', 'localhost');
