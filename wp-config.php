@@ -20,6 +20,7 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
+
 define('DB_NAME', 'flatsome');
 
 /** Username của database */
